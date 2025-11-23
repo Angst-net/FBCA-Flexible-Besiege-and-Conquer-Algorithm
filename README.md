@@ -2,7 +2,7 @@
 
 This is the official code of the paper [FBCA: Flexible Besiege and Conquer Algorithm for Multi-Layer Perceptron Optimization Problems](https://doi.org/10.3390/biomimetics10110787).
 \
-The paper is published in Biomimetics, the link as: https://doi.org/10.3390/biomimetics9060316
+The paper is published in Biomimetics, the link as: [https://doi.org/10.3390/biomimetics9060316](https://doi.org/10.3390/biomimetics10110787).
 \
 More information about our research can be found at www.jianhuajiang.com.
 
